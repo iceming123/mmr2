@@ -1,0 +1,9 @@
+block_number,proof_validation_time,complete_validation_time,complete_proof_size,epoch_numbers,required_blocks
+0,0,0,0,0,0
+1000000,0,99,614,30,773
+2000000,0,125,611,34,748
+3000000,0,207,680,49,837
+4000000,0,211,564,43,706
+5000000,0,221,658,38,825
+6000000,0,385,679,58,804
+7000000,0,556,781,78,924
